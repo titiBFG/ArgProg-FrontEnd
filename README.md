@@ -1,5 +1,5 @@
-# ArgProg-FrontEnd
+# ArgProg-BackEnd
 
-Repositorio destinado para el proyecto para Front End
+Esto es un repositorio para el desarrollo del back end para el curso de desarrollo web Argentina Programa, todo el material que incluya sera usado exclusivamente para el curso, sin excepciones.
 
-Esto es un repositorio hecho como tarea del curso de desarrollo web Argentina Programa, todo el material que incluya sera usado exclusivamente para el curso, sin excepciones.
+En la rama release se lanzara el codigo.
