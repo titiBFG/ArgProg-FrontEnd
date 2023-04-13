@@ -1,0 +1,117 @@
+/* You can add global styles to this file, and also import other style files */
+
+.list-group-item {
+    background-color: transparent !important;
+}
+
+i.fa-brands.fa-linkedin-in.fa-xl {
+    color:white;
+}
+
+i.fa-brands.fa-linkedin-in.fa-xl:hover {
+    color:black;
+}
+
+i.fa-brands.fa-instagram.fa-xl {
+    color:white;
+}
+
+i.fa-brands.fa-instagram.fa-xl:hover {
+    color:black;
+}
+
+i.fa-regular.fa-envelope.fa-xl {
+    color:white;
+}
+
+i.fa-regular.fa-envelope.fa-xl:hover {
+    color:black;
+}
+
+i.fa-brands.fa-github.fa-xl {
+    color:white;
+}
+
+i.fa-brands.fa-github.fa-xl:hover {
+    color:black;
+}
+
+i.fa-solid.fa-user.fa-xl {
+    color:white;
+}
+
+i.fa-solid.fa-user.fa-xl:hover {
+    color:black;
+}
+
+.list-group.list-group-horizontal {
+    --bs-list-group-border-color: none;
+}
+
+.fondo-nav {
+    background-image: url(../img/web.jpg) !important;
+    background-position: center;
+    background-size: cover;
+    height: 90px;
+}
+
+.fondo {
+    background-image: url(../img/white.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-top: 10px;
+    border: 2px solid #0e020213;
+    border-radius: 25px;
+    background-color: #0e020223;
+}
+
+.align-center { 
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.align-left { 
+    justify-content: flex-start;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+
+@font-face {
+    font-family: 'Questrial-Regular';
+    src: url(../fuentes/Questrial/Questrial-Regular.ttf) format('truetype');
+}
+
+.profile-icon {
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    margin-top: 20px;
+    z-index: 1;
+}
+
+#nombre {
+    font-family:'Questrial-Regular';
+    font-size: 24px;
+}
+
+#descrip {
+    font-family: 'Questrial-Regular';
+    font-size: 14px;
+}
+
+#titulo {
+    font-family:'Questrial-Regular';
+    font-size: 26px !important;
+}
+
+.sin-espaciado {
+    padding: 1px;
+    margin: 1px 0;
+    line-height: 1;
+}
